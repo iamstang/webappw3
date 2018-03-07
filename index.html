@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Title</title>
+
+
+    <script type = "text/javascript" src="script.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  </head>
+
+  <body>
+    <h1>Puzzle</h1>
+
+    <div>
+      <p>select number of question</p>
+      <button onclick ="startGame(5)" id = 'btn5'>5</button>
+      <button onclick ="startGame(10)" id = 'btn10'>10</button>
+      <button onclick ="startGame(15)" id = 'btn15'>15</button>
+    </div>
+
+    <div>
+      <p id = currentQuestion>Question X/X</p>
+
+      <p id = "question">Question</p>
+      <p>Timer: <p id = 'timer'>30</p></p>
+    </div>
+
+    <div>
+
+      <button onclick = "answer(1)" id = 'btn1'>button1</button>
+      <button onclick = "answer(2)" id = 'btn2'>button2</button>
+      <button onclick = "answer(3)" id = 'btn3'>button3</button>
+      <button onclick = "answer(4)" id = 'btn4'>button4</button>
+    </div>
+
+    <div>
+      <p id = 'answer'> the answer </p>
+      <p id = score>Score : X/X</p>
+      <p id = 'alltime'> </p>
+      <p id = 'averagetime'> </p>
+    </div>
+
+  </body>
+</html>

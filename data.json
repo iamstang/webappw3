@@ -1,0 +1,84 @@
+{
+  "theQuestion" : [
+    {
+      "question" : "1 + 1 = ?",
+      "choices" :[ "1", "2","3","4"] ,
+      "answer" : "2"
+    },
+    {
+      "question" : "2 + 2 = ?",
+      "choices" :[ "1", "2","3","4"] ,
+      "answer" : "4"
+    },
+    {
+      "question" : "3 + 3 = ?",
+      "choices" :[ "6", "7","8","9"] ,
+      "answer" : "6"
+    },
+    {
+      "question" : "4 + 4 = ?",
+      "choices" :[ "6", "7","8","9"] ,
+      "answer" : "8"
+    },
+    {
+      "question" : "5 + 5 = ?",
+      "choices" :[ "9", "10","11","12"] ,
+      "answer" : "10"
+    },
+    {
+      "question" : "6 + 6 = ?",
+      "choices" :[ "9", "10","11","12"] ,
+      "answer" : "12"
+    },
+    {
+      "question" : "7 + 7 = ?",
+      "choices" :[ "14", "15","16","17"] ,
+      "answer" : "14"
+    },
+    {
+      "question" : "8 + 8 = ?",
+      "choices" :[ "14", "15","16","17"] ,
+      "answer" : "16"
+    },
+    {
+      "question" : "9 + 9 = ?",
+      "choices" :[ "17", "18","19","20"] ,
+      "answer" : "18"
+    },
+    {
+      "question" : "10 + 10 = ?",
+      "choices" :[ "17", "18","19","20"] ,
+      "answer" : "20"
+    },
+    {
+      "question" : "11 + 11 = ?",
+      "choices" :[ "20", "21","22","23"] ,
+      "answer" : "22"
+    },
+    {
+      "question" : "12 + 12 = ?",
+      "choices" :[ "24", "25","26","27"] ,
+      "answer" : "24"
+    },
+    {
+      "question" : "13 + 13 = ?",
+      "choices" :[ "25", "26","27","28"] ,
+      "answer" : "26"
+    },
+    {
+      "question" : "14 + 14 = ?",
+      "choices" :[ "25", "26","27","28"] ,
+      "answer" : "28"
+    },
+    {
+      "question" : "15 + 15 = ?",
+      "choices" :[ "15", "30","45","60"] ,
+      "answer" : "30"
+    },
+    {
+      "question" : "Annie are you ok?",
+      "choices" :[ "Yes", "No","Ok","Are you okay annie?"] ,
+      "answer" : "Are you okay annie?"
+    }
+  ]
+}
